@@ -33,7 +33,7 @@ percentage of bigrams token = 22.367928062944923%
 
 ## P2Q5
 ### unigram
-the parameters are: log(p(<s>)) + log(p(i)) + log(p(look)) + log(p(forward)) + log(p(to)) + log(p(hearing)) + log(p(your)) + log(p(reply)) + log(p(.)) + log(p(</s>))
+the parameters are: log(p(\<s>)) + log(p(i)) + log(p(look)) + log(p(forward)) + log(p(to)) + log(p(hearing)) + log(p(your)) + log(p(reply)) + log(p(.)) + log(p(\</s>))
 the log probability is: log(0.03893762581720342) + log(0.0028576323587245593) + log(0.000238687646259457) + log(0.00018456434637354423) + log(0.02065563174351007) + log(8.137963795795515e-05) + log(0.00047387090619536564) + log(5.061891356236445e-06) + log(0.03422383683577278) + log(0.03893762581720342) = -94.93878209357644
 the perplexity of given string is: 721.0113746656128
 
