@@ -78,7 +78,6 @@
 
 **\*\*Command:\*\***
 
-**```bash**
 
 **javac -d <output\_directory> <path\_to\_java\_file>**
 
